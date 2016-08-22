@@ -1,0 +1,6 @@
+C:\GitHub\TypeScript\Start\KefTypeScript\MyFirst\bin\MyFirst.dll.config
+C:\GitHub\TypeScript\Start\KefTypeScript\MyFirst\bin\MyFirst.dll
+C:\GitHub\TypeScript\Start\KefTypeScript\MyFirst\bin\MyFirst.pdb
+C:\GitHub\TypeScript\Start\KefTypeScript\MyFirst\obj\Debug\MyFirst.csprojResolveAssemblyReference.cache
+C:\GitHub\TypeScript\Start\KefTypeScript\MyFirst\obj\Debug\MyFirst.dll
+C:\GitHub\TypeScript\Start\KefTypeScript\MyFirst\obj\Debug\MyFirst.pdb

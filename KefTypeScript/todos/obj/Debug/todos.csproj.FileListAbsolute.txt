@@ -1,0 +1,5 @@
+C:\GitHub\TypeScript\Start\KefTypeScript\todos\bin\todos.dll.config
+C:\GitHub\TypeScript\Start\KefTypeScript\todos\bin\todos.dll
+C:\GitHub\TypeScript\Start\KefTypeScript\todos\bin\todos.pdb
+C:\GitHub\TypeScript\Start\KefTypeScript\todos\obj\Debug\todos.dll
+C:\GitHub\TypeScript\Start\KefTypeScript\todos\obj\Debug\todos.pdb
